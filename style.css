@@ -1,0 +1,26 @@
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 2px;
+background-color: beige;
+color: maroon;
+padding: 5px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+}
+
+body
+{
+   background-size: cover; 
+   background-position: center;
+}
+
+a
+{
+    width: 300px;
+    font-size: 21px !important;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    color: darkblue;
+}
